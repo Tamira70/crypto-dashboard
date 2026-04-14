@@ -26,11 +26,6 @@ Entwickelt mit TypeScript und Vite und deployed auf einem eigenen Linux-Server.
 
 ---
 
-## 📸 Screenshot
-
-*(optional Screenshot einfügen)*
-
----
 
 ## 🌍 Live Demo
 
