@@ -31,18 +31,6 @@ Das Projekt dient als Portfolio-Anwendung zur Demonstration von:
 
 ---
 
-## 🌍 Live Demo
-
-👉 https://bewerbungsprofil.tamira12.duckdns.org/portfolio-dashboard/
-
----
-
-## 💻 GitHub Repository
-
-👉 https://github.com/Tamira70/crypto-dashboard
-
----
-
 ## 🛠️ Technologien
 
 * TypeScript
